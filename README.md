@@ -4,20 +4,13 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fjycodelab/paper-recommendation-system"><strong>Paper Recommendation System</strong></a>
-      <br />
-      <sub>Research paper recommendation and user behavior analytics.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fjycodelab/manufacturing-scheduling-agent"><strong>Manufacturing Scheduling Agent</strong></a>
-      <br />
-      <sub>Tool-using scheduling workflows with memory, alerts, and MQTT.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi,vue,ts,mysql,redis,kafka,git&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi,vue,ts,mysql,redis,kafka,git&theme=light" />
+    <img alt="Java, Spring, Python, FastAPI, Vue, TypeScript, MySQL, Redis, Kafka, and Git" src="https://skillicons.dev/icons?i=java,spring,python,fastapi,vue,ts,mysql,redis,kafka,git&theme=light" />
+  </picture>
+</p>
 
 <br />
 
