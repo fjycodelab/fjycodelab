@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/fjycodelab/OneBitWiser">
-    <img src="https://img.shields.io/badge/One_Bit_Wiser-daily_executable_proofs-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="One Bit Wiser" />
+  <a href="https://github.com/fjycodelab/gaze">
+    <img src="https://img.shields.io/badge/Gaze-human_in_the_loop_review-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Gaze" />
   </a>
 </p>
 
