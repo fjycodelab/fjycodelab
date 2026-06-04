@@ -1,14 +1,23 @@
-<h1 align="center">Hi, I'm fjycodelab</h1>
-
 <p align="center">
-  Building small, testable ideas one bit at a time.
-</p>
-
-<p align="center">
-  <a href="https://github.com/fjycodelab/my">
+  <a href="https://github.com/fjycodelab/OneBitWiser">
     <img src="https://img.shields.io/badge/One_Bit_Wiser-daily_executable_proofs-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="One Bit Wiser" />
   </a>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjycodelab/paper-recommendation-system"><strong>Paper Recommendation System</strong></a>
+      <br />
+      <sub>Research paper recommendation and user behavior analytics.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjycodelab/manufacturing-scheduling-agent"><strong>Manufacturing Scheduling Agent</strong></a>
+      <br />
+      <sub>Tool-using scheduling workflows with memory, alerts, and MQTT.</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
